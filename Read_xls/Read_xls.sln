@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read_xls", "Read_xls\Read_xls.csproj", "{2327B781-373A-436D-8A92-6F4EC897F2BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2327B781-373A-436D-8A92-6F4EC897F2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2327B781-373A-436D-8A92-6F4EC897F2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2327B781-373A-436D-8A92-6F4EC897F2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2327B781-373A-436D-8A92-6F4EC897F2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9D011E7-E5A2-4D70-808D-9812F18376D8}
+	EndGlobalSection
+EndGlobal

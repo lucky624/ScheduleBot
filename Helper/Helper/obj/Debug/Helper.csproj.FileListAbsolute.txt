@@ -1,0 +1,14 @@
+R:\Helper\Helper\bin\Debug\Helper.exe.config
+R:\Helper\Helper\bin\Debug\Helper.exe
+R:\Helper\Helper\bin\Debug\Helper.pdb
+R:\Helper\Helper\obj\Debug\Helper.csprojAssemblyReference.cache
+R:\Helper\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+R:\Helper\Helper\obj\Debug\Helper.exe
+R:\Helper\Helper\obj\Debug\Helper.pdb
+C:\Users\dev\Desktop\ScheduleBot\Helper\Helper\bin\Debug\Helper.exe.config
+C:\Users\dev\Desktop\ScheduleBot\Helper\Helper\bin\Debug\Helper.exe
+C:\Users\dev\Desktop\ScheduleBot\Helper\Helper\bin\Debug\Helper.pdb
+C:\Users\dev\Desktop\ScheduleBot\Helper\Helper\obj\Debug\Helper.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\ScheduleBot\Helper\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ScheduleBot\Helper\Helper\obj\Debug\Helper.exe
+C:\Users\dev\Desktop\ScheduleBot\Helper\Helper\obj\Debug\Helper.pdb
